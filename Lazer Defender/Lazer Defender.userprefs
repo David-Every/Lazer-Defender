@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Glitch Garden\Assets\Scripts\Projectile.cs">
+    <Files>
+      <File FileName="..\Glitch Garden\Assets\Scripts\Projectile.cs" Line="18" Column="1" />
+      <File FileName="..\Glitch Garden\Assets\Scripts\Shooter.cs" Line="13" Column="1" />
+      <File FileName="..\Glitch Garden\Assets\Scripts\Attackers\Fox.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
